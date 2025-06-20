@@ -24,7 +24,7 @@ Each attack includes:
 - Deauthenticated users from the real AP.
 - Captured WPA handshake and credentials using a phishing portal.
 
-### 🔄 3. [MITM Attack (ARP Spoofing + HTTP Credential Sniffing)](attacks/mitm-arp-http-sniffing/) *(Coming soon)*
+### 🔄 3. [MITM Attack (ARP Spoofing + HTTP Credential Sniffing)](attacks/mitm-arp-http-sniffing/) 
 - Manually enabled IP forwarding.
 - Used `arpspoof` and `tcpdump`/`wireshark` to capture credentials from HTTP login pages.
 
